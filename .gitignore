@@ -1,0 +1,10 @@
+data/
+models/
+results/llm_cache.json
+results/predictions.csv
+results/pred_tier2_chronological.csv
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.env
