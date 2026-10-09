@@ -1,0 +1,1502 @@
+[
+  {
+    "block_id": "blk_-4274696371674901174",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3578325285704038673",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2431749784966993954",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8586919992324323022",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_6185794882000324449",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-870694103751652948",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_983652668365853016",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-7092299120781143612",
+    "label": "Normal",
+    "reason": "The session follows the expected lifecycle of block allocation, receiving, storing, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_2236507127731891672",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3620292859551389740",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block lifecycle."
+  },
+  {
+    "block_id": "blk_4937380952486770473",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_8870162918057351296",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_-590198710627080929",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-3521696005075042381",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2643303785797886063",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-5423295681295817398",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-1668290396099226617",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request indicates a broken sequence."
+  },
+  {
+    "block_id": "blk_-1788422506070824002",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events without any anomalies."
+  },
+  {
+    "block_id": "blk_-6783086644796639291",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_8670687221368759992",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_-3966183606182615849",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_601773817958447778",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_3283853179975629608",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_919058850924131563",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-199709487564750012",
+    "label": "Anomalous",
+    "reason": "The session is incomplete and does not follow the expected block lifecycle events."
+  },
+  {
+    "block_id": "blk_-348350699682544844",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-1315229941987785193",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-4418366677702527504",
+    "label": "Anomalous",
+    "reason": "The sequence of events shows missing acknowledgments and redundant packet responses."
+  },
+  {
+    "block_id": "blk_2940705937140357680",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-3422768593539862671",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, replication, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-2237162606074611494",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_6497751944428287551",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3982219989412687689",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_9216213644042941789",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-1295956276573967085",
+    "label": "Anomalous",
+    "reason": "The session is incomplete and does not follow the expected block lifecycle events."
+  },
+  {
+    "block_id": "blk_7605292993904659704",
+    "label": "Anomalous",
+    "reason": "The sequence of events shows missing acknowledgments and reordering of events."
+  },
+  {
+    "block_id": "blk_1105387295502968672",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-1836287090583474075",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8286747622210355646",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_7900773329179038581",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7287275732676267755",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_7257435658750211592",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_2754449243565982516",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_194950616376240913",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3308541964079647235",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_-3823807691310472887",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7047397809145398327",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block lifecycle."
+  },
+  {
+    "block_id": "blk_-3859249462158182692",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_37643213161283759",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-3596001398485130265",
+    "label": "Anomalous",
+    "reason": "The session is incomplete and does not follow the expected block lifecycle events."
+  },
+  {
+    "block_id": "blk_-730234675801209261",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-7141715996565632861",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_3555991268838351336",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-3361020327527916701",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-5546573378168675500",
+    "label": "Anomalous",
+    "reason": "The sequence includes a 'ask to replicate' event before the block is fully received and added to the block map, indicating a potential issue."
+  },
+  {
+    "block_id": "blk_3913056123691949409",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-196524630646748883",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_7373138406935943089",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_8849237032759465539",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_2793892834870615869",
+    "label": "Anomalous",
+    "reason": "The session contains a block replication request followed by a block deletion without proper verification."
+  },
+  {
+    "block_id": "blk_1804549060073371663",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-6198156294791304933",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-7469300761560049038",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-8288429687346834011",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_8976270480154958019",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_8982626595798610855",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-8518144757781031998",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-1196882408129310802",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_1546825575109044415",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-1750595643272139315",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_1309466960385619234",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-8393677600696029949",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-3180573862356560271",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_9018444317477814910",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block reception process."
+  },
+  {
+    "block_id": "blk_1738267452321872736",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_4842803074197573752",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage."
+  },
+  {
+    "block_id": "blk_6850634847988747701",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8414424445158157486",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7372160191011040509",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_7955149433701260526",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-4540911297609081718",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-605460442792959816",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_2751673605915778661",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-5052188525985022196",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-72985644545963213",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events without any anomalies."
+  },
+  {
+    "block_id": "blk_2777911291637259627",
+    "label": "Anomalous",
+    "reason": "The session contains redundant events and an unexpected error during block deletion."
+  },
+  {
+    "block_id": "blk_-609536189550762608",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_978774274697856472",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_670358422435392459",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage."
+  },
+  {
+    "block_id": "blk_-8837400487060682315",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-1586052018527760784",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-8228050296977641475",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-6445273606199447046",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_5878643284812880076",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_6884856587329250740",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7519141798981578272",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-1623019612754853646",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3134086111537597235",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_8002469035950188343",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3837578822001924745",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-472788359163832782",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a problem in the block receiving process."
+  },
+  {
+    "block_id": "blk_8538636368365286465",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7632294272815869341",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_200545185535919357",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_26400381524725071",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_2826659282520826302",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8467410800493582782",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_1410243403673373477",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_1929098561573749039",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-1609753150330054832",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage."
+  },
+  {
+    "block_id": "blk_-515821653866893543",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_4049530823075876358",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_156341893540800212",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_472506649960616212",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-2313164549874528212",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_1054552390191089523",
+    "label": "Anomalous",
+    "reason": "The sequence of events shows a missing acknowledgment for one of the received blocks."
+  },
+  {
+    "block_id": "blk_-709772474085592774",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-8014150783522643553",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-6206479428648060497",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-5223143140442118716",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-4931654729064268900",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-6977288775534082032",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_4931786255795411223",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-7691309728318670445",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_6754201223905339240",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_6482157749245012946",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-1646229146881438772",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_2929327486964905764",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_5830974356515339741",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-756396503054981691",
+    "label": "Anomalous",
+    "reason": "The session contains a 'BLOCK* ask to replicate' event which is not part of the normal block lifecycle."
+  },
+  {
+    "block_id": "blk_-5398793451733954343",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-1838212786194196177",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-2028512663216601787",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-6863135233853730617",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-3571099069295769659",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-2726642875491779347",
+    "label": "Normal",
+    "reason": "The session follows the expected lifecycle of block allocation, receiving, storing, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_1856775984079503419",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_5368668893474957015",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-7613916415297221059",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-8509552108953362237",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_4083646178799255486",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_7607201569906246187",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_483398279855304172",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7757125406784890885",
+    "label": "Anomalous",
+    "reason": "The session contains multiple instances of receiving empty packets for the block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_6077977452076758365",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-7285609518450935311",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3159116784380902022",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_9219629885111570880",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request indicates a broken sequence."
+  },
+  {
+    "block_id": "blk_8549515429541442568",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3848738266379327559",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3680829765468634447",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block reception process."
+  },
+  {
+    "block_id": "blk_8014611448539432037",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_4516306414837452219",
+    "label": "Normal",
+    "reason": "The session follows the expected lifecycle of block allocation, receiving, storing, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_2480908349943594044",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-4755313376367913684",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_8295453281341450601",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_4029406228945829430",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-4538555044947600288",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-6457532082394114817",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_1515423515697049488",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8508355441776244342",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-356233297458107014",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events without any anomalies."
+  },
+  {
+    "block_id": "blk_5825619522667946383",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_2623794481914235288",
+    "label": "Anomalous",
+    "reason": "The session contains multiple instances of 'Receiving empty packet for block', indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7812058866158613906",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-7418707351756116530",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8652612080730206145",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2160926123445864185",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_6972831858003188410",
+    "label": "Anomalous",
+    "reason": "The sequence of events shows a block being replicated before all acknowledgments are received."
+  },
+  {
+    "block_id": "blk_7296025871014460328",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8588406883782655210",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_8054504774563285234",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_8962130923772345427",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-2998271615846901384",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-752368136888407515",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-224860016047364771",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3731868114774009620",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_395539717940166125",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-4825100322490629293",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3841189763852653442",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-4444594436287739842",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_5714901098279870415",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-9058081773085963697",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-6047094942662966089",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_707200504283383852",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_1683270277601496154",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_339628614718966933",
+    "label": "Normal",
+    "reason": "The session follows the expected lifecycle of block allocation, receiving, storing, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_2625258031919680497",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_7103769329621511539",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_8950952552344454918",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7176222791546391059",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_957979387392236750",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_6343289396889552069",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-4912664736718884195",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_5283663166620563551",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-6192499376546178890",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_5316328086441559437",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_4987490019162298493",
+    "label": "Anomalous",
+    "reason": "The session contains a 'ask to replicate' event before the block is fully acknowledged, indicating a potential issue in the replication process."
+  },
+  {
+    "block_id": "blk_-4349221534694521715",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7404951576990435927",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-167119094631801678",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_1863149292901489102",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_2645908448713321825",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block lifecycle."
+  },
+  {
+    "block_id": "blk_-2686983114813727010",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2609439195499805042",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-7514662347783589769",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-3589843754567835075",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-6070933546767614715",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block lifecycle."
+  },
+  {
+    "block_id": "blk_-4202031625521532309",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-1103023033547814062",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-2569786603625327088",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_7798803109417082367",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_3174048716972313072",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_651354700620801083",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3463773902759070322",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-4773260169063187725",
+    "label": "Anomalous",
+    "reason": "The session is incomplete and does not follow the expected block lifecycle events."
+  },
+  {
+    "block_id": "blk_8746498067690094543",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request indicates a broken sequence."
+  },
+  {
+    "block_id": "blk_-1318654393064738899",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-7379845778684335919",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-8876015039210799247",
+    "label": "Anomalous",
+    "reason": "The sequence includes a 'BLOCK* ask[*]to replicate[*]to[*]' event which is not part of the normal block lifecycle."
+  },
+  {
+    "block_id": "blk_-2925518034713072878",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-74373671191060047",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-7308639326623653688",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-4532083792428770252",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_1596114880981135666",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_5719077853383932723",
+    "label": "Anomalous",
+    "reason": "The session contains a 'ask to replicate' event before the block is fully received and added to the block map, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-8031335125080743099",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_2209555415845610034",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events without any anomalies."
+  },
+  {
+    "block_id": "blk_8971347197982752465",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7706920104719431761",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_8290830609025172389",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events without any anomalies."
+  },
+  {
+    "block_id": "blk_-7844546808748424450",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-6159183942609272289",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-993956548277030059",
+    "label": "Anomalous",
+    "reason": "The sequence shows a block being received after allocation, but before the acknowledgments from packet responders, indicating a potential issue."
+  },
+  {
+    "block_id": "blk_-1798059502837815681",
+    "label": "Normal",
+    "reason": "The session follows the expected lifecycle of block allocation, receiving, storing, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-5814129242443467623",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_2794435572247057873",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_1186541281926863677",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block reception process."
+  },
+  {
+    "block_id": "blk_4565119633233737252",
+    "label": "Anomalous",
+    "reason": "The session contains a 'ask to replicate' event which is not part of the normal block lifecycle."
+  },
+  {
+    "block_id": "blk_518352292893855053",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_7999119663790119321",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3431310096229950249",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_-3278500910866903578",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2320885284111798412",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-5344651563595874737",
+    "label": "Anomalous",
+    "reason": "The session contains multiple 'addStoredBlock' requests indicating blocks that do not belong to any file, which is an unexpected behavior."
+  },
+  {
+    "block_id": "blk_-2309787643554830434",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_-4668544601731005704",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-3613592575798922799",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_5683306374771775067",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request indicates a broken sequence."
+  },
+  {
+    "block_id": "blk_-6989657979230934695",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_5405105794517894472",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-809170842651983668",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-3397936799976281965",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-9004177070542315092",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_133129570728400986",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_1355871983122100846",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_-4711318757020726844",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block lifecycle."
+  },
+  {
+    "block_id": "blk_-2300960320209756412",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-8677352169581751020",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_1199580172539844413",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-851117621418186629",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_4662746178983817928",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2686472188488199157",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-3705426194837427896",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_8137796965524000220",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-3306227527115419883",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-1424540149600914681",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request detected."
+  },
+  {
+    "block_id": "blk_5856042007851056278",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-3787397247112434225",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-3590100953336110586",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-8315497309759899734",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_6178080741638951722",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_6129842524812905999",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_5335248351472986350",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-3689404296603847501",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-6853581748194020297",
+    "label": "Anomalous",
+    "reason": "Receiving empty packets indicates a broken sequence in the block reception process."
+  },
+  {
+    "block_id": "blk_-4934573589267661322",
+    "label": "Anomalous",
+    "reason": "The session contains multiple 'Receiving empty packet for block' events, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3436217822722405142",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_7677790159219016242",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_3941245193625413632",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage."
+  },
+  {
+    "block_id": "blk_-6441823348812776407",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_5490592545213539878",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-1567638428741936272",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2395596729509199285",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-89246509097222496",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-1707736743875692352",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_422090423583930791",
+    "label": "Anomalous",
+    "reason": "The sequence of events shows a missing acknowledgment after block allocation."
+  },
+  {
+    "block_id": "blk_-4935363668159874343",
+    "label": "Anomalous",
+    "reason": "Redundant addStoredBlock request indicates a broken sequence."
+  },
+  {
+    "block_id": "blk_9161267399509284623",
+    "label": "Anomalous",
+    "reason": "The session contains an unexpected error while trying to delete a block, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-3162805475089790909",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-6901148813805534079",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_8389577586296572921",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_2078748762589541302",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-1791865405548036877",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events without any anomalies."
+  },
+  {
+    "block_id": "blk_8232130150314415292",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-9009133954113899946",
+    "label": "Anomalous",
+    "reason": "The session contains an exception during the writeBlock process, indicating a broken sequence."
+  },
+  {
+    "block_id": "blk_-7443936157719050934",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  },
+  {
+    "block_id": "blk_-3929768371033418479",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation and storage without any anomalies."
+  },
+  {
+    "block_id": "blk_-4437131267567980740",
+    "label": "Normal",
+    "reason": "The session follows the expected sequence of events for block allocation, reception, storage, and deletion without any anomalies."
+  },
+  {
+    "block_id": "blk_5320706846091216283",
+    "label": "Anomalous",
+    "reason": "The session is incomplete as it does not include the necessary steps for block reception and storage."
+  }
+]

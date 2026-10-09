@@ -1,0 +1,9 @@
+tier,feature,split,precision,recall,f1,fpr,tp,fp,fn,tn,backend,approx_tokens
+Tier0-Rules,keywords,chronological,1.0,0.489,0.6568,0.0,821,0,858,113334,,
+Tier1-PCA,counts,chronological,0.3858,1.0,0.5568,0.0236,1679,2673,0,110661,,
+Tier1-iForest,counts,chronological,0.0093,0.0149,0.0114,0.0236,25,2676,1654,110658,,
+Tier2-DeepLog(lstm),sequence,chronological,0.9717,0.8166,0.8874,0.0004,1371,40,308,113294,lstm,
+Tier3-LLM(openai),text,chronological,0.9662,0.9533,0.9597,0.0333,143,5,7,145,openai,0.0
+Tier1-PCA,counts,random,0.5939,1.0,0.7452,0.0212,3453,2361,0,109199,,
+Tier1-iForest,counts,random,0.0733,0.0753,0.0743,0.0295,260,3286,3193,108274,,
+Tier2-DeepLog(lstm),sequence,random,0.9908,0.4996,0.6642,0.0001,1725,16,1728,111544,lstm,
